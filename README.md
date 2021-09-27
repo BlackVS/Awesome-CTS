@@ -9,6 +9,7 @@ A curated list of Capture The Signal CTF related stuff
 - [Write-ups](#Write-ups)
   - [HWIO2020](#HWIO2020)
   - [HWIO2021](#HWIO2021)
+  - [GRUcon 2021](#GRUcon-2021)
 
 - - -
 
@@ -47,7 +48,7 @@ You may run you own server
 - [BlackVS](https://github.com/BlackVS/CTFs/tree/master/HWIO2021/CTS)
 - [HydraBus](https://hydrabus.com/CTS/HWIO_2021_CTS_Signal5_solution_BVE_10July2021.pdf) + [here](https://hydrabus.com/CTS/)
 
-### GRUcon2021
+### GRUcon 2021
 
 TBD
 
