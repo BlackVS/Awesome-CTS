@@ -36,7 +36,16 @@ You may run you own server
 
 ## Write-ups
 
-### HWIO201
+### HWIO2020
+
+- [Digital Security](https://www.digital.security/en/blog/hardweario-capture-signal-write)
+- BatchDrake, [part 1](https://batchdrake.github.io/cts/) and [part 2](https://batchdrake.github.io/ctsII/)
+- 
+### HWIO2021
 
 - [BlackVS](https://github.com/BlackVS/CTFs/tree/master/HWIO2021/CTS)
-- [HydraBus](https://hydrabus.com/CTS/HWIO_2021_CTS_Signal5_solution_BVE_10July2021.pdf)
+- [HydraBus](https://hydrabus.com/CTS/HWIO_2021_CTS_Signal5_solution_BVE_10July2021.pdf) + [here](https://hydrabus.com/CTS/)
+
+### CTS similar challenges from other CTFs
+
+
