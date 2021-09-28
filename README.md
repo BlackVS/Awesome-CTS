@@ -12,6 +12,7 @@ A curated list of Capture The Signal CTF related stuff
   - [GRUcon 2021](#GRUcon-2021)
   - [Non CTS]()
 - [Software](#Software)
+- [Signals](#Signals)
 - [Links](#Links)
 
 - - -
