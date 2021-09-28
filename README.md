@@ -57,7 +57,7 @@ You may run you own server
 
 TBD
 
-### Non CTS 
+### Non CTS
 RF signals challenges from other CTFs
 * [Trolling CTF players with gr-paint](https://irrational.net/2019/11/30/trolling-ctf-players-with-gr-paint/)
 * [Building a frequency hopping CTF challenge](https://irrational.net/2019/12/02/building-a-frequency-hopping-challenge/)
