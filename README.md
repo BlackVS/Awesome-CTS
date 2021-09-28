@@ -62,12 +62,37 @@ RF signals challenges from other CTFs
 [What Lurks Below](https://github.com/mossmann/Writeups/tree/main/Google%20CTF%202020/What%20Lurks%20Below)
 [Signal.dat](https://github.com/leony/CTF/blob/master/Radio%20Frequency/Signal.dat_Writeup.md)
 [Terebeep](https://bolek42.github.io/ctf/2017-PlaidCTF/terebeep/README.html)
+[RF CTF Software Defined Radio Challenges](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-SoftwareDefinedRadio-Challenges)
+[Hospital Under Siege 2021: Be still my beating heart](https://ctftime.org/writeup/29131)
+[RF/MOBILE 100](https://gitlab.com/hacklabor/ctf/tmctf-writeup/-/blob/master/RF-Mobile-100/RF-Mobile100.md)
+
 
 ## Software
+### CTS used
 [SiDigger](https://github.com/BatchDrake/SigDigger)
 [Audacity](https://www.audacityteam.org/)
 [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/)
+[gr-gsm](https://github.com/ptrkrysik/gr-gsm)
+
+### Other
 [rtl_433](https://github.com/merbanan/rtl_433), is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
+[Software By W1HKJ & Associates](http://www.w1hkj.com/)
+[Fast Light Digital Modem Application](https://sourceforge.net/p/fldigi/wiki/Home/)
+[SSTV and HamDRM for Linux](http://users.telenet.be/on4qz/index.html)
+[Ham Radio Software on Centos Linux](http://www.trinityos.com/HAM/CentosDigitalModes/hampacketizing-centos.html#28.qsstv)
+[Dire Wolf](https://github.com/wb2osz/direwolf), Decoded Information from Radio Emissions for Windows Or Linux Fans
+[minimodem ](http://www.whence.com/minimodem/), general-purpose software audio FSK modem  for GNU/Linux systems
+
+## Signals
+[Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+[Sights & Sounds](http://www.w1hkj.com/modes/index.htm)
+
+### Modulations
+[FSK Demodulation in GNU Radio](https://wirelesspi.com/fsk-demodulation-in-gnu-radio/)
+[Suscan](https://github.com/BatchDrake/suscan), is a realtime DSP processing library. It provides a set of useful abstractions to perform dynamic digital signal analysis and demodulation
+[Manually Decoding ASK PWM Signals from rtl_433 Signal I/Q Sample Files using Universal Radio Hacker](https://github.com/klohner/klohner.github.io/tree/master/SDR/Decoding/Example_2019-01-18)
+[Weak Signal Communication Software](https://physics.princeton.edu//pulsar/K1JT/)
+[wctf-sdr-tools](https://github.com/rfhs/rfctf-sdr-tools), GNU Radio ZMQ Receivers
 
 ## Links
 ### GSM
@@ -76,13 +101,3 @@ RF signals challenges from other CTFs
 [3GPP Message Decoder](https://www.3glteinfo.com/3gpp-message-decoder/), tool to decode GSM, UMTS, LTE, IP messages
 
 ### Other
-[Weak Signal Communication Software](https://physics.princeton.edu//pulsar/K1JT/)
-
-## Signals
-### Determination
-
-### Modulations
-[FSK Demodulation in GNU Radio](https://wirelesspi.com/fsk-demodulation-in-gnu-radio/)
-[Suscan](https://github.com/BatchDrake/suscan), is a realtime DSP processing library. It provides a set of useful abstractions to perform dynamic digital signal analysis and demodulation
-
-
