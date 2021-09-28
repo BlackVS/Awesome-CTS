@@ -72,17 +72,17 @@ RF signals challenges from other CTFs
 
 ## Software
 ### CTS used
-* [GNU Radio](https://github.com/gnuradio/gnuradio), is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
-* [SigDigger](https://github.com/BatchDrake/SigDigger), is a free digital signal analyzer for GNU/Linux and macOS, designed to extract information of unknown radio signals.
-* [Gqrx](https://github.com/gqrx-sdr/gqrx), is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
-* [URH](https://github.com/jopohl/urh), is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
-* [inspectrum](https://github.com/miek/inspectrum), is a tool for analysing captured signals, primarily from software-defined radio receivers.
-* [Audacity](https://www.audacityteam.org/), Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
-* [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/), is a cross-platform (Windows, Linux, MacOS X, etc.) command line utility that can convert various formats of computer audio files in to other formats. It can also apply various effects to these sound files, and, as an added bonus, SoX can play and record audio files on most platforms.
+* [GNU Radio](https://github.com/gnuradio/gnuradio) is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+* [SigDigger](https://github.com/BatchDrake/SigDigger) is a free digital signal analyzer for GNU/Linux and macOS, designed to extract information of unknown radio signals.
+* [Gqrx](https://github.com/gqrx-sdr/gqrx) is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
+* [URH](https://github.com/jopohl/urh) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
+* [inspectrum](https://github.com/miek/inspectrum) is a tool for analysing captured signals, primarily from software-defined radio receivers.
+* [Audacity](https://www.audacityteam.org/) is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+* [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/) is a cross-platform (Windows, Linux, MacOS X, etc.) command line utility that can convert various formats of computer audio files in to other formats. It can also apply various effects to these sound files, and, as an added bonus, SoX can play and record audio files on most platforms.
 
 
 ### Other
-* [rtl_433](https://github.com/merbanan/rtl_433), is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
+* [rtl_433](https://github.com/merbanan/rtl_433) is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
 * [Software By W1HKJ & Associates](http://www.w1hkj.com/)
 * [Fast Light Digital Modem Application](https://sourceforge.net/p/fldigi/wiki/Home/)
 * [SSTV and HamDRM for Linux](http://users.telenet.be/on4qz/index.html)
