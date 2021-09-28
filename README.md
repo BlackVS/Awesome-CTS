@@ -5,6 +5,7 @@ A curated list of Capture The Signal CTF related stuff
 - [CTS Intro](https://github.com/capturethesignal/cts-website/blob/master/bhusa2021/BHArsenal21_cts.pdf), BH2021, USA
 - [CTS tools](#CTS-Tools)
   - [CTS client](#CTS-client)
+  - [How to run tools](#How_to_run_tools)
   - [CTS server](#CTS-server)
 - [Write-ups](#Write-ups)
   - [HWIO2020](#HWIO2020)
@@ -21,8 +22,8 @@ A curated list of Capture The Signal CTF related stuff
 
 There are different modes of CTS:
 * live, with SDR hardware;
-* CTS with already recorded signals (iq, wav etc);
-* capture via netwroks: simulating SDR hardware via network. In the last case you nedd install and use CTS client
+* signals capture via network: simulating SDR hardware via network. In this case you need to install and use CTS client;
+* CTS with already recorded signals (iq, wav etc).
  
 ### CTS client
 
