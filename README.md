@@ -115,8 +115,11 @@ RF signals challenges from other CTFs
 * [DTMF decoder](https://github.com/ribt/dtmf-decoder)
 * [DTMF Code](https://www.dcode.fr/dtmf-code)
 
+## Other RF/SDR Awesome lists
+* [RFSec-ToolKit V 2.0](https://github.com/cn0xroot/RFSec-ToolKit), is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform, and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G 、4G LTE 、5G、NFC&RFID、ZigBee and so on.
+
 ### Other
 * [GNU Radio-Companion Cook Book](https://cdn.hackaday.io/files/1648847054397056/GRC%20Cook%20Book.pdf), Tips, Tricks and Design Patterns
-* [RFSec-ToolKit V 2.0](https://github.com/cn0xroot/RFSec-ToolKit), is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform, and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G 、4G LTE 、5G、NFC&RFID、ZigBee and so on.
 * [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 * [dCode](https://www.dcode.fr), is the universal site for decoding messages, cheating on letter games, solving puzzles, geocaches and treasure hunts, etc.
+
