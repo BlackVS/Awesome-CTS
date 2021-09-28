@@ -71,14 +71,13 @@ RF signals challenges from other CTFs
 
 ## Software
 ### CTS used
-* [GNU Radio](https://github.com/gnuradio/gnuradio)
-* [SiDigger](https://github.com/BatchDrake/SigDigger)
-* [Gqrx](https://github.com/gqrx-sdr/gqrx)
-* [URH](https://github.com/jopohl/urh)
-* [inspectrum](https://github.com/miek/inspectrum), 
-
-* [Audacity](https://www.audacityteam.org/)
-* [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/)
+* [GNU Radio](https://github.com/gnuradio/gnuradio), is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+* [SiDigger](https://github.com/BatchDrake/SigDigger), is a free digital signal analyzer for GNU/Linux and macOS, designed to extract information of unknown radio signals.
+* [Gqrx](https://github.com/gqrx-sdr/gqrx), is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
+* [URH](https://github.com/jopohl/urh), is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
+* [inspectrum](https://github.com/miek/inspectrum), is a tool for analysing captured signals, primarily from software-defined radio receivers.
+* [Audacity](https://www.audacityteam.org/), Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+* [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/), is a cross-platform (Windows, Linux, MacOS X, etc.) command line utility that can convert various formats of computer audio files in to other formats. It can also apply various effects to these sound files, and, as an added bonus, SoX can play and record audio files on most platforms.
 
 
 ### Other
