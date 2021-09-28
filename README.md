@@ -71,10 +71,15 @@ RF signals challenges from other CTFs
 
 ## Software
 ### CTS used
+* [GNU Radio](https://github.com/gnuradio/gnuradio)
 * [SiDigger](https://github.com/BatchDrake/SigDigger)
+* [Gqrx](https://github.com/gqrx-sdr/gqrx)
+* [URH](https://github.com/jopohl/urh)
+* [inspectrum](https://github.com/miek/inspectrum), 
+
 * [Audacity](https://www.audacityteam.org/)
 * [Swiss Army knife of sound processing programs](http://sox.sourceforge.net/)
-* [gr-gsm](https://github.com/ptrkrysik/gr-gsm)
+
 
 ### Other
 * [rtl_433](https://github.com/merbanan/rtl_433), is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
@@ -85,9 +90,12 @@ RF signals challenges from other CTFs
 * [Dire Wolf](https://github.com/wb2osz/direwolf), Decoded Information from Radio Emissions for Windows Or Linux Fans
 * [minimodem ](http://www.whence.com/minimodem/), general-purpose software audio FSK modem  for GNU/Linux systems
 
+
 ## Signals
 * [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 * [Sights & Sounds](http://www.w1hkj.com/modes/index.htm)
+* [Radio Signals Recognition Manual](https://aresvalley.com/artemis/)
+
 
 ### Modulations
 * [FSK Demodulation in GNU Radio](https://wirelesspi.com/fsk-demodulation-in-gnu-radio/)
@@ -98,9 +106,17 @@ RF signals challenges from other CTFs
 
 ## Links
 ### GSM
-* [gr-gsm](https://github.com/ptrkrysik/gr-gsm)
+* [gr-gsm](https://github.com/ptrkrysik/gr-gsm), is a tool for analysing captured signals, primarily from software-defined radio receivers.
 * [Osmocom projects](https://osmocom.org/projects)
 * [3GPP Message Decoder](https://www.3glteinfo.com/3gpp-message-decoder/), tool to decode GSM, UMTS, LTE, IP messages
+ 
+### DTMF
+* [Detect DTMF Tones](http://www.dialabc.com/sound/detect/)
+* [DTMF decoder](https://github.com/ribt/dtmf-decoder)
+* [DTMF Code](https://www.dcode.fr/dtmf-code)
 
 ### Other
-[GNU Radio-Companion Cook Book](https://cdn.hackaday.io/files/1648847054397056/GRC%20Cook%20Book.pdf), Tips, Tricks and Design Patterns
+* [GNU Radio-Companion Cook Book](https://cdn.hackaday.io/files/1648847054397056/GRC%20Cook%20Book.pdf), Tips, Tricks and Design Patterns
+* [RFSec-ToolKit V 2.0](https://github.com/cn0xroot/RFSec-ToolKit), is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform, and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G 、4G LTE 、5G、NFC&RFID、ZigBee and so on.
+* [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+* [dCode](https://www.dcode.fr), is the universal site for decoding messages, cheating on letter games, solving puzzles, geocaches and treasure hunts, etc.
