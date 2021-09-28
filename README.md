@@ -103,3 +103,4 @@ RF signals challenges from other CTFs
 * [3GPP Message Decoder](https://www.3glteinfo.com/3gpp-message-decoder/), tool to decode GSM, UMTS, LTE, IP messages
 
 ### Other
+[GNU Radio-Companion Cook Book](https://cdn.hackaday.io/files/1648847054397056/GRC%20Cook%20Book.pdf), Tips, Tricks and Design Patterns
