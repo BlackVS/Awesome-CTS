@@ -20,7 +20,7 @@ A curated list of Capture The Signal CTF related stuff
 ## CTS Tools
 There are different modes of CTS:
 * live, with SDR hardware;
-* CTS with already recodred \*.iq signals;
+* CTS with already recorded signals (iq, wav etc);
 * capture via netwroks: simulating SDR hardware via network. In the last case you nedd install and use CTS client
  
 ### CTS client
