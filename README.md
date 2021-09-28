@@ -73,7 +73,7 @@ RF signals challenges from other CTFs
 ## Software
 ### CTS used
 * [GNU Radio](https://github.com/gnuradio/gnuradio), is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
-* [SiDigger](https://github.com/BatchDrake/SigDigger), is a free digital signal analyzer for GNU/Linux and macOS, designed to extract information of unknown radio signals.
+* [SigDigger](https://github.com/BatchDrake/SigDigger), is a free digital signal analyzer for GNU/Linux and macOS, designed to extract information of unknown radio signals.
 * [Gqrx](https://github.com/gqrx-sdr/gqrx), is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
 * [URH](https://github.com/jopohl/urh), is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
 * [inspectrum](https://github.com/miek/inspectrum), is a tool for analysing captured signals, primarily from software-defined radio receivers.
