@@ -4,8 +4,8 @@ A curated list of Capture The Signal CTF related stuff
 - [CTS home](https://cts.ninja/)
 - [CTS Intro](https://github.com/capturethesignal/cts-website/blob/master/bhusa2021/BHArsenal21_cts.pdf), BH2021, USA
 - [CTS tools](#CTS-Tools)
-- [CTS client](#CTS-client)
-- [CTS server](#CTS-server)
+  - [CTS client](#CTS-client)
+  - [CTS server](#CTS-server)
 - [Write-ups](#Write-ups)
   - [HWIO2020](#HWIO2020)
   - [HWIO2021](#HWIO2021)
@@ -18,6 +18,7 @@ A curated list of Capture The Signal CTF related stuff
 - - -
 
 ## CTS Tools
+
 There are different modes of CTS:
 * live, with SDR hardware;
 * CTS with already recorded signals (iq, wav etc);
