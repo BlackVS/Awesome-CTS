@@ -56,7 +56,8 @@ You may run you own server
 
 ### GRUcon 2021
 
-TBD
+* [BlackVS](https://github.com/BlackVS/CTFs/tree/master/GRUCon2021/)
+* [ElyKar](https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/)
 
 ### Non CTS
 RF signals challenges from other CTFs
